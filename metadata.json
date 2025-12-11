@@ -1,0 +1,5 @@
+{
+  "name": "MediOrchestrator AI",
+  "description": "A hospital operations simulation using Gemini API to orchestrate patient management, scheduling, records, and billing via specialized AI agents.",
+  "requestFramePermissions": []
+}
